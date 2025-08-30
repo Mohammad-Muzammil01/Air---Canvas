@@ -21,14 +21,6 @@ This project implements an **Air Canvas** application using **OpenCV** and **Num
 ┣ 📜 README.md # Project documentation 
 
 
----
-
-## 🛠️ Requirements  
-Install the following dependencies before running the project:  
-
-```bash
-pip install numpy opencv-python
-
 ## ▶️ How to Run  
 
 1. Clone this repository:  
@@ -65,3 +57,13 @@ Tracking Window → Shows the live camera feed with buttons.
 Paint Window → Displays your canvas drawing.
 
 Mask Window → Displays the mask used for detecting the marker.
+---
+
+## 🛠️ Requirements  
+Install the following dependencies before running the project:  
+
+```bash
+pip install numpy opencv-python
+
+## ▶️ How to Run  
+

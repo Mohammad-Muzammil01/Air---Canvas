@@ -65,5 +65,4 @@ Install the following dependencies before running the project:
 ```bash
 pip install numpy opencv-python
 
-## ▶️ How to Run  
 
